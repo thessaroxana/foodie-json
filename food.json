@@ -1,4 +1,24 @@
 [
-  {"name" : "bakso", "resep": "Bahan", "image" : "bakso"}, 
-  {"name" : "nasi goreng" , "resep" : "bahan2", "image" : "nasi_goreng"}
+  {"name" : "bakso", "resep": "1. Campur dan giling semua bahan hingga halus, kecuali urat sapi dan air.
+
+2. Masukkan cincangan urat sapi. Aduk hingga rata.
+
+3. Dalam panci, didihkan air untuk merebus bakso.
+
+4. Ambil segenggam adonan bakso lalu kepalkan dengan satu tangan. Tekan-tekan hingga keluar bulatan bakso di sela ibu jari dan telunjuk.
+
+5. Ambil bulatan bakso dengan sendok lalu langsung masukkan dalam air mendidih. Lakukan terus hingga semua adonan habis.
+
+6. Biarkan bakso masak hingga mengapung. Angkat dan tiriskan.", "image" : "bakso"}, 
+  {"name" : "nasi goreng" , "resep" : "Cuci udang lalu potong-potong
+Potong-potong ayam panggang.
+Panaskan minyak dalam wajan, masukkan udang dan ayam.
+Masak sebentar hingga matang. Tiriskan.
+Panaskan sedikit minyak dalam wajan.
+Masukkan telur, aduk hingga bergumpal dan matang.
+Masukkan nasi, aduk-aduk hingga terurai.
+Tambahkan udang dan ayam panggang. Aduk rata.
+Bumbu dengan garam, kaldu ayam bubuk dan kecap.
+Aduk-aduk hingga rata lalu angkat.", "image" : "nasi_goreng"},
+   {"name" : "" , "resep"
 ]
