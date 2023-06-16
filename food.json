@@ -1,14 +1,9 @@
 [
   {"name" : "bakso", "resep": "1. Campur dan giling semua bahan hingga halus, kecuali urat sapi dan air.
-
 2. Masukkan cincangan urat sapi. Aduk hingga rata.
-
 3. Dalam panci, didihkan air untuk merebus bakso.
-
 4. Ambil segenggam adonan bakso lalu kepalkan dengan satu tangan. Tekan-tekan hingga keluar bulatan bakso di sela ibu jari dan telunjuk.
-
 5. Ambil bulatan bakso dengan sendok lalu langsung masukkan dalam air mendidih. Lakukan terus hingga semua adonan habis.
-
 6. Biarkan bakso masak hingga mengapung. Angkat dan tiriskan.", "image" : "bakso"}, 
   {"name" : "nasi goreng" , "resep" : "Cuci udang lalu potong-potong
 Potong-potong ayam panggang.
@@ -20,5 +15,22 @@ Masukkan nasi, aduk-aduk hingga terurai.
 Tambahkan udang dan ayam panggang. Aduk rata.
 Bumbu dengan garam, kaldu ayam bubuk dan kecap.
 Aduk-aduk hingga rata lalu angkat.", "image" : "nasi_goreng"},
-   {"name" : "" , "resep"
+   {"name" : "rendang" , "resep" : "Haluskan semua bahan Bumbu dengan diulek atau diblender.
+Tumis bumbu dengan sedikit minyak goreng hingga wangi.
+Masukkan batang serai, daun jeruk, asam kandis dan garam, aduk rata.
+Tuangi santan dan dididihkan, masukkan daging.
+Masak dengan api kecil selama beberapa jam sampai daging empuk dan bumbu kecokelatan sesuai selera.", "image" : "rendang"},
+   {"name" : "sate" , "resep" : "1. Iris daging ayam fillet sesuai selera.
+2. Panaskan minyak, tumis bumbu halus sampai kecokelatan dan matang, matikan api. Masukkan susu, air jeruk nipis, garam, lada, kecap manis, aduk rata. Lalu cicipi, kalau sudah pas, campurkan ke potongan ayam, diamkan minimal 2 jam di kulkas atau 1 malam.
+3. Tusuk daging ayam, bakar di atas teflon sambil diolesi dengan campuran margarin dan kecap manis, bakar hingga matang. Sajikan." , "image" : "sate"},
+   {"name" : "soto" , "resep" : "Didihkan air, rebus ayam dengan api kecil hingga daging ayam hampir lunak.
+Tumis bumbu halus bersama daun jeruk, daun salam, serai dan aduk hingga matang dan harum. Angkat.
+Masukkan ke dalam rebusan ayam.
+Rebus dengan api kecil hingga daging ayam lunak.
+Angkat ayam, tiriskan hingga agak kering.
+Goreng ayam sebentar hingga bagian luarnya kering. Tiriskan.
+Suwir daging ayam kasar-kasar.
+Susun ayam, suun, tauge dalam mangkuk saji.
+Tuangi kaldu panas.
+Sajikan dengan daun bawang, bawang goreng, sambal rawit dan jeruk nipis" , "image" : "soto"}
 ]
